@@ -23,17 +23,17 @@ A command-line image processing tool supporting PNM formats (PPM, PGM, PBM) with
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/mihai1923/image_editor
-   cd image_editor
+   git clone https://github.com/mihai1923/image-editor
+   cd image-editor
    ```
 
 2. Compile with GCC:
   ```bash
-  gcc image_editor.c -o image_editor -lm
+  gcc image-editor.c -o image-editor -lm
   ```
 ## Usage
   ```shell
-  ./image_editor
+  ./image-editor
   ```
 ## Commands
 | Command     | Parameters                        | Description                      |
